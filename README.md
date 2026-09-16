@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kartik Singh Gaharwar 👋</h1>
+<h1 align="center">Hi there, I'm Kartik Singh 👋</h1>
 
 <p align="center">
   <b>AI & Data Science Enthusiast | Machine Learning & LLMOps Developer</b>
