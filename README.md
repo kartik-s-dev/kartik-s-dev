@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kartik Singh 👋</h1>
+-<h1 align="center">Hi there, I'm Kartik Singh 👋</h1>
 
 <p align="center">
   <b>Building RAG pipelines, LLM evaluation systems & ML models</b>
@@ -12,15 +12,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- Animated Workspace GIF Banner -->
-<p align="center">
-  <img src="Subtle_cinematic_animation_1-ezgif.com-optimize.gif" alt="Kartik Workspace Animation" width="100%" style="border-radius: 10px;" />
-</p>
-
----
 
 ### 🚀 About Me
 - 🔭 Working on **RAG pipelines, LLM evaluation, and ML regression projects**.
