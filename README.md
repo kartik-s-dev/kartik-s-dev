@@ -1,45 +1,15 @@
--<h1 align="center">Hi there, I'm Kartik Singh 👋</h1>
+# Hi, I'm Kartik Singh
 
-<p align="center">
-  <b>Building RAG pipelines, LLM evaluation systems & ML models</b>
-</p>
+Entry-level Software / GenAI Engineer (B.Tech IT, 2026).
+I build RAG apps, LLM evaluation tools and ML models in Python and Node.js.
 
-<p align="center">
-  <a href="https://github.com/kartik-s-dev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:singhkartik5937@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## Projects
+- RAG-Chatbot: upload a PDF and ask questions; answers come from retrieved chunks (LangChain, ChromaDB, Gemini). Live demo: https://kartik-rag-chatbot.streamlit.app
+- llm-eval-cicd-pipeline: LLM-as-judge evaluation with a dashboard and a CI gate (Node.js, Express, Supabase, GitHub Actions). Live demo: https://llm-eval-cicd-pipeline.vercel.app/src/dashboard/Dashboard.html
+- Book-Price-Predictor: book price regression with LightGBM and grouped cross-validation (Python, scikit-learn, Streamlit)
 
-### 🚀 About Me
-- 🔭 Working on **RAG pipelines, LLM evaluation, and ML regression projects**.
-- 🛠️ Tech Stack: **Python, Pandas, Scikit-Learn, LangChain, ChromaDB, Streamlit, SQL**.
-- 🎯 Focused on building end-to-end ML systems and evaluating LLM outputs for reliability.
+## Stack
+Python, JavaScript, SQL (SQLite) | LangChain, ChromaDB, scikit-learn, LightGBM, Pandas | Node.js, Express, Supabase | Git, GitHub Actions, Streamlit
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<!-- Modern Icons Display -->
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,postgres,git,github,vscode" />
-</p>
-
-- **Languages:** Python, JavaScript, HTML/CSS, SQL
-- **Frameworks & Libraries:** LangChain, Scikit-Learn, Streamlit, Pandas, NumPy, Matplotlib
-- **Data & Tools:** SQLite, PostgreSQL, Git, GitHub Actions
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-s-dev&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
----
-
-### 📫 Connect with Me
-- **GitHub:** [@kartik-s-dev](https://github.com/kartik-s-dev)
+## Contact
+singhkartik5937@gmail.com | https://linkedin.com/in/kartik-singh-937295311
